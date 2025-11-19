@@ -6,7 +6,8 @@
 
     const myObject = {
         name: 'SvelteKit',
-        type: 'Framework',}
+        type: 'Framework',
+    }
 
     const myNestedObject = {
       banana: {
@@ -31,9 +32,9 @@
 
 {#snippet superAdvancedSnippet(n: Record<string, Record<string, string>>)}
   {#each Object.values(n) as nested}
-	{#each Object.entries(nested) as [key, value]}
-    <p>{key}: {value}</p>
-  {/each}
+	  {#each Object.entries(nested) as [key, value]}
+      <p>{key}: {value}</p>
+    {/each}
   {/each}
 {/snippet}
 
