@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-24T09:27:49.926Z\n"
+"PO-Revision-Date: 2025-11-08T12:38:28.401Z\n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"MIME-Version: 1.0\n"
+
+#: src/routes/path/+page.svelte
+msgid "This is a sub path"
+msgstr "Esta es una subruta"
+
+#: src/routes/+page.svelte
+msgid "Go to sub"
+msgstr "Ir a sub"
+
+#: src/routes/+page.svelte
+msgid "Welcome to SvelteKit"
+msgstr "Bienvenido a SvelteKit"
+
+#: src/routes/+page.svelte
+msgid "Visit <0>svelte.dev/docs/kit</0> to read the documentation"
+msgstr "Visita <0>svelte.dev/docs/kit</0> para leer la documentación"
+
+#: src/routes/hello.svelte.js
+msgid "Hello from module"
+msgstr "Hola desde el módulo"
+
+#: src/routes/+layout.ts
+msgid "Hello from layout!"
+msgstr "¡Hola desde el layout!"
+
+#: src/routes/path/+layout.ts
+msgid "Hello from nested layout!"
+msgstr "¡Hola desde el diseño anidado!"
+
+#: src/routes/path/+page.svelte
+msgid "Load messages from page state"
+msgstr "Cargar mensajes desde el estado de la página"
+
+#: src/routes/path/+page.svelte
+msgid "Load messages from props/data"
+msgstr "Cargar mensajes desde props/data"
