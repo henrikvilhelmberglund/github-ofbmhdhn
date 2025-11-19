@@ -47,3 +47,15 @@ msgstr "Load messages from page state"
 #: src/routes/path/+page.svelte
 msgid "Load messages from props/data"
 msgstr "Load messages from props/data"
+
+#: src/routes/+page.svelte
+msgid "SvelteKit"
+msgstr "SvelteKit"
+
+#: src/routes/+page.svelte
+msgid "Framework"
+msgstr "Framework"
+
+#: src/routes/+page.svelte
+msgid "This is a simple snippet example"
+msgstr "This is a simple snippet example"

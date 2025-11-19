@@ -47,3 +47,15 @@ msgstr "Charger les messages depuis l'état de la page"
 #: src/routes/path/+page.svelte
 msgid "Load messages from props/data"
 msgstr "Charger les messages depuis les props/données"
+
+#: src/routes/+page.svelte
+msgid "SvelteKit"
+msgstr ""
+
+#: src/routes/+page.svelte
+msgid "Framework"
+msgstr ""
+
+#: src/routes/+page.svelte
+msgid "This is a simple snippet example"
+msgstr ""
