@@ -50,12 +50,12 @@ msgstr "Cargar mensajes desde props/data"
 
 #: src/routes/+page.svelte
 msgid "SvelteKit"
-msgstr ""
+msgstr "SvelteKit español"
 
 #: src/routes/+page.svelte
 msgid "Framework"
-msgstr ""
+msgstr "Framework español"
 
 #: src/routes/+page.svelte
 msgid "This is a simple snippet example"
-msgstr ""
+msgstr "This is a simple snippet example español"
